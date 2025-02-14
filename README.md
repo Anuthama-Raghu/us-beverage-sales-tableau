@@ -53,6 +53,18 @@ The study helps businesses **optimize marketing strategies** and **adjust invent
 - `sales.csv` – Dataset used for analysis.  
 
 ---
+## 📊 Visualizations  
+
+### 📌 Sales by Product Type  
+![Sales by Product Type](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz 1.JPG)  
+
+### 📌 Marketing Impact on Profit  
+![Marketing Impact](https://github.com/your-username/us-beverage-sales-tableau/blob/main/marketing_impact.png)  
+
+### 📌 Regional Sales Distribution  
+![Regional Sales](https://github.com/your-username/us-beverage-sales-tableau/blob/main/regional_sales.png)  
+
+---
 
 ##  **Lessons Learned**  
 - **Data visualization simplifies complex business trends**.  
