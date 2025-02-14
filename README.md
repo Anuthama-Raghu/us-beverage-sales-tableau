@@ -52,6 +52,19 @@ The study helps businesses **optimize marketing strategies** and **adjust invent
 - `Beverage_Sales_Presentation.pptx` – Visualizations & findings.  
 - `sales.csv` – Dataset used for analysis.  
 
+
+
+## 📊 Visualizations  
+
+### 📌 Sales by Product Type  
+![Sales by Product Type](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)
+
+### 📌 Marketing Impact on Profit  
+![Marketing Impact](https://github.com/your-username/us-beverage-sales-tableau/blob/main/marketing_impact.png)  
+
+### 📌 Regional Sales Distribution  
+![Regional Sales](https://github.com/your-username/us-beverage-sales-tableau/blob/main/regional_sales.png)  
+
 ---
 ## 📊 Visualizations  
 
@@ -59,16 +72,16 @@ The study helps businesses **optimize marketing strategies** and **adjust invent
 (https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)  
 
 ### 📌 Monthly margin difference by product and Top 5 products  
-(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)
+(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%202.JPG)
 
 ### 📌 State and Product type analysis 
-(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)
+(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%203.JPG)
 
 ### 📌 Impact of product marketing 
-(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)
+(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%204.JPG)
 
 ### 📌 Inventory value over time
-(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)
+(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%205.JPG)
 ---
 
 ##  **Lessons Learned**  
