@@ -56,7 +56,7 @@ The study helps businesses **optimize marketing strategies** and **adjust invent
 ## 📊 Visualizations  
 
 ### 📌 Sales by Product Type  
-![Sales by Product Type](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz 1.JPG)  
+![Gross Profit based on region & market size]([https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz 1.JPG](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz 1.JPG))  
 
 ### 📌 Marketing Impact on Profit  
 ![Marketing Impact](https://github.com/your-username/us-beverage-sales-tableau/blob/main/marketing_impact.png)  
