@@ -59,16 +59,16 @@ The study helps businesses **optimize marketing strategies** and **adjust invent
 ![Gross Profit based on region & market size ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)  
 
 ### 📌 Monthly margin difference by product and Top 5 products  
-[Monthly margin difference by product and Top 5 products ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%202.JPG)
+![Monthly margin difference by product and Top 5 products ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%202.JPG)
 
 ### 📌 State and Product type analysis 
-[State and Product type analysis ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%203.JPG)
+![State and Product type analysis ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%203.JPG)
 
 ### 📌 Impact of product marketing 
-[Impact of product marketing ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%204.JPG)
+![Impact of product marketing ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%204.JPG)
 
 ### 📌 Inventory value over time
-[Inventory value over time](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%205.JPG)
+![Inventory value over time](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%205.JPG)
 ---
 
 ##  **Lessons Learned**  
