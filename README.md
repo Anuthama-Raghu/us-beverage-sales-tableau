@@ -68,7 +68,7 @@ The study helps businesses **optimize marketing strategies** and **adjust invent
 ## 📊 Visualizations  
 
 ### 📌 Gross Profit based on region & market size 
-(https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)  
+![Gross Profit based on region & market size ](https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%201.JPG)  
 
 ### 📌 Monthly margin difference by product and Top 5 products  
 (https://github.com/Anuthama-Raghu/us-beverage-sales-tableau/blob/main/Viz%202.JPG)
